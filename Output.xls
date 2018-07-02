@@ -1,0 +1,414 @@
+,Address,Area(sqrt),Bahrooms,House Type,Possession,Price,Status
+0,"Whitefield Hope Farm Junction, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 43 L,Under Construction
+1,"Channasandra, Bangalore",857 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 46 L,Under Construction
+2,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 45 L,Under Construction
+3,"Soukya Road, Bangalore",1000 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 45 L,Under Construction
+4,"White Field, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Jun 2019, 45 L,Under Construction
+5,"Hoskote, Bangalore",995 ,2 Bathrooms,2  BHK Villa,Possession by Jun 2019, 33.5 L,Under Construction
+6,"Channasandra Main Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Jun 2019, 42 L,Under Construction
+7,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 46 L,Ready to move
+8,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 42 L,Under Construction
+9,"Soukya Road, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 42 L,Under Construction
+10,"Channasandra Main, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Jun 2019, 45 L,Under Construction
+11,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Aug 2019, 45 L,Under Construction
+12,"Soukya Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Jun 2019, 45 L,Under Construction
+13,"Whitefield, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 45.83 L,Under Construction
+14,"Narasapura, Bangalore",995 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 32 L,Under Construction
+15,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 42 L,Under Construction
+16,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Jun 2019, 45 L,Under Construction
+17,"Soukya Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 32 L,Under Construction
+18,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 45 L,Under Construction
+19,"Whitefield, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 45 L,Under Construction
+20,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Jun 2019, 32 L,Under Construction
+21,"Soukya Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Jun 2019, 45 L,Under Construction
+22,"Hoskote, Bangalore",1050 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 32 L,Under Construction
+23,"Whitefield Hope Farm Junction, Bangalore",1000 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 30 L,Under Construction
+24,"Channasandra Main, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Jun 2019, 45 L,Under Construction
+25,"Whitefield Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 42 L,Under Construction
+26,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 45 L,Under Construction
+27,"Channasandra Main Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 46 L,Under Construction
+28,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 30 L,Under Construction
+29,"Bommasandra Jigani Link Rd, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Oct 2019, 39.85 L,Under Construction
+30,"Bommasandra Jigani Link Rd, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Oct 2019, 40 L,Under Construction
+31,"Bommasandra Jigani Link Rd, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Oct 2019, 40.8 L,Under Construction
+32,"Narasapura, Bangalore",1258 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 42 L,Under Construction
+33,"Hoskote, Bangalore",1050 ,2 Bathrooms,2  BHK Villa,, 33.5 L,Ready to move
+34,"Hoskote, Bangalore",960 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 45 L,Under Construction
+35,"Channasandra Main Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Jun 2019, 45 L,Under Construction
+36,"Devanagonthi, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 45.5 L,Under Construction
+37,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 32 L,Under Construction
+38,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 36 L,Under Construction
+39,"Soukya Road, Bangalore",1000 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 30 L,Under Construction
+40,"Whitefield Hope Farm Junction, Bangalore",1000 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 30 L,Under Construction
+41,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 45 L,Under Construction
+42,"Bommasandra Jigani Link Rd, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Oct 2019, 39.85 L,Under Construction
+43,"Jigani, Bangalore",1500 ,2 Bathrooms,2  BHK Villa,, 48 L,Ready to move
+44,"Electronic City Phase 1, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 48 L,Under Construction
+45,"Hoskote, Bangalore",1860 ,3 Bathrooms,2  BHK Villa,Possession by Apr 2019, 67 L,Under Construction
+46,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Jan 2019, 45 L,Under Construction
+47,"Channasandra, Bangalore",1500 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 39 L,Under Construction
+48,"Whitefield Hope Farm Junction, Bangalore",1000 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 30 L,Under Construction
+49,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 35 L,Under Construction
+50,"Whitefield Hope Farm Junction, Bangalore",1000 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 39 L,Under Construction
+51,"Baliganapalli, Bangalore",1500 ,2 Bathrooms,2  BHK Villa,, 50 L,Ready to move
+52,"Electronic City Phase 1, Bangalore",900 ,2 Bathrooms,2  BHK Villa,Possession by Jun 2019, 38.75 L,Under Construction
+53,"Whitefield Hope Farm Junction, Bangalore",1000 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 30 L,Under Construction
+54,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 45.83 L,Under Construction
+55,"Whitefield Hope Farm Junction, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 45.83 L,Under Construction
+56,"Whitefield Hope Farm Junction, Bangalore",1000 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 39 L,Under Construction
+57,"Whitefield Hope Farm Junction, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Jul 2019, 45.83 L,Under Construction
+58,"Whitefield Hope Farm Junction, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Jan 2019, 45 L,Under Construction
+59,"Whitefield Hope Farm Junction, Bangalore",1000 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 30 L,Under Construction
+60,"Jigani Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 17.88 L,Ready to move
+61,"ITPL, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45.81 L,Under Construction
+62,"Avalahalli, Bangalore",750 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 42 L,Under Construction
+63,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 36 L,Under Construction
+64,"Channasandra Main Road, Bangalore",1257 ,2 Bathrooms,2  BHK Villa,, 46 L,Under Construction
+65,"Whitefield, Bangalore",1000 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 30 L,Under Construction
+66,"Sarjapur, Bangalore",1207 ,3 Bathrooms,2  BHK Villa,Possession by Dec 2018, 53 L,Under Construction
+67,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 47 L,Under Construction
+68,"Bommasandra Jigani Link Rd, Bangalore",845 ,,2  BHK Villa,Possession by Oct 2019, 42 L,Under Construction
+69,"Whitefield, Bangalore",1500 ,2 Bathrooms,2  BHK Villa,Possession by Jan 2019, 47 L,Under Construction
+70,"Channasandra Main Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 45 L,Under Construction
+71,"Whitefield Hope Farm Junction, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45.83 L,Under Construction
+72,"Bommasandra, Bangalore",1250 ,3 Bathrooms,2  BHK Villa,Possession by Jul 2019, 48.5 L,Under Construction
+73,"Hoskote, Bangalore",1256 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 43 L,Under Construction
+74,"Whitefield Hope Farm Junction, Bangalore",932 ,2 Bathrooms,2  BHK Villa,Possession by Nov 2018, 47.74 L,Under Construction
+75,"Hoskote, Bangalore",995 ,2 Bathrooms,2  BHK Villa,Possession by Jan 2019, 29.5 L,Under Construction
+76,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 32 L,Under Construction
+77,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 40 L,Under Construction
+78,"Bommasandra, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 39.6 L,Under Construction
+79,"Soukya Road, Bangalore",1000 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 30 L,Under Construction
+80,"Soukya Road, Bangalore",1000 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 30 L,Under Construction
+81,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 42 L,Under Construction
+82,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 44 L,Under Construction
+83,"Soukya Road, Bangalore",1200 ,1 Bathrooms,2  BHK Villa,Possession by May 2019, 45 L,Under Construction
+84,"Whitefield Hope Farm Junction, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 52.99 L,Under Construction
+85,"Soukya Road, Bangalore",1000 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 39 L,Under Construction
+86,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 35 L,Under Construction
+87,"Bommasandra, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 39.5 L,Under Construction
+88,"Whitefield, Bangalore",1000 ,2 Bathrooms,2  BHK Villa,, 30 L,Under Construction
+89,"Bommasandra, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Jun 2019, 39.87 L,Under Construction
+90,"Soukya Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 42 L,Under Construction
+91,"Narasapura, Bangalore",600 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 29.5 L,Under Construction
+92,"Hoskote, Bangalore",995 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 33.5 L,Under Construction
+93,"Whitefield Hope Farm Junction, Bangalore",865 ,2 Bathrooms,2  BHK Villa,Possession by Nov 2018, 46.52 L,Under Construction
+94,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 35 L,Under Construction
+95,"Soukya Road, Bangalore",1000 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 30 L,Under Construction
+96,"Narasapura, Bangalore",600 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 33 L,Under Construction
+97,"Hosur, Bangalore",880 ,,2  BHK Villa,, 23.5 L,Ready to move
+98,"Soukya Road, Bangalore",1000 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 39 L,Under Construction
+99,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 45 L,Under Construction
+100,"Hoskote, Bangalore",995 ,2 Bathrooms,2  BHK Villa,Possession by Jan 2019, 29.5 L,Under Construction
+101,"Sarjapur, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 50 L,Under Construction
+102,"Hosur, Bangalore",1600 ,2 Bathrooms,2  BHK Villa,Possession by Jun 2018, 45.95 L,Under Construction
+103,"Hosur, Bangalore",600 ,2 Bathrooms,2  BHK Villa,Possession by Jun 2018, 16.2 L,Under Construction
+104,"Mugalur, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 45 L,Ready to move
+105,"Hosur, Bangalore",600 ,2 Bathrooms,2  BHK Villa,, 14.7 L,Ready to move
+106,"Narasapura, Bangalore",600 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 33.5 L,Under Construction
+107,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 45 L,Under Construction
+108,"Hosur, Bangalore",1750 ,2 Bathrooms,2  BHK Villa,, 41.32 L,Ready to move
+109,"Hosur, Bangalore",1500 ,2 Bathrooms,2  BHK Villa,, 37.95 L,Ready to move
+110,"Hosur, Bangalore",640 ,2 Bathrooms,2  BHK Villa,, 16.74 L,Ready to move
+111,"Hosur, Bangalore",600 ,2 Bathrooms,2  BHK Villa,, 16.2 L,Ready to move
+112,"Narasapura, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 41.2 L,Under Construction
+113,"Hoskote, Bangalore",995 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 33.5 L,Under Construction
+114,"Bommasandra Jigani Link Rd, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 39.85 L,Under Construction
+115,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 45 L,Under Construction
+116,"Soukya Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 45 L,Under Construction
+117,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 45 L,Under Construction
+118,"Whitefield Hope Farm Junction, Bangalore",932 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 47.98 L,Under Construction
+119,"Bommasandra Jigani Link Rd, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 39.5 L,Under Construction
+120,"Electronic City Phase 1, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 39.5 L,Under Construction
+121,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 45 L,Under Construction
+122,"Channasandra, Bangalore",1400 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 44 L,Under Construction
+123,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Sep 2018, 46.13 L,Under Construction
+124,"Soukya Road, Bangalore",1000 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 39 L,Under Construction
+125,"Devanagonthi, Bangalore",1200 ,3 Bathrooms,2  BHK Villa,Possession by May 2019, 45 L,Under Construction
+126,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 42 L,Under Construction
+127,"Hoskote, Bangalore",995 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 33.5 L,Under Construction
+128,"Devanagonthi, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 46 L,Under Construction
+129,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 45 L,Under Construction
+130,"Bommasandra, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Jun 2019, 39.85 L,Under Construction
+131,"Hoskote, Bangalore",1050 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 35.02 L,Under Construction
+132,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 45 L,Under Construction
+133,"Electronic City Phase 1, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 40.2 L,Under Construction
+134,"Whitefield, Bangalore",864 ,2 Bathrooms,2  BHK Villa,Possession by Oct 2018, 46.25 L,Under Construction
+135,"Whitefield Hope Farm Junction, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 47.75 L,Under Construction
+136,"Soukya Road, Bangalore",1000 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 39 L,Under Construction
+137,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 42 L,Under Construction
+138,"Chikka Tirupathi, Bangalore",807 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 44 L,Under Construction
+139,"Whitefield Hope Farm Junction, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 46.13 L,Under Construction
+140,"Whitefield, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Nov 2018, 46 L,Under Construction
+141,"Bommasandra Jigani Link Rd, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 40 L,Under Construction
+142,"Bommasandra Jigani Link Rd, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Jan 2019, 40 L,Under Construction
+143,"Narasapura, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 42.36 L,Under Construction
+144,"Whitefield Hope Farm Junction, Bangalore",852 ,2 Bathrooms,2  BHK Villa,Possession by Oct 2018, 46.32 L,Under Construction
+145,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 45 L,Ready to move
+146,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Nov 2018, 41 L,Under Construction
+147,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 41 L,Under Construction
+148,"Sarjapur, Bangalore",1248 ,2 Bathrooms,2  BHK Villa,, 98 L,Ready to move
+149,"Whitefield, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 46.13 L,Under Construction
+150,"Soukya Road, Bangalore",1100 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 39 L,Under Construction
+151,"Narasapura, Bangalore",995 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 33.5 L,Under Construction
+152,"Soukya Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 45 L,Under Construction
+153,"White Field, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 45 L,Ready to move
+154,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 45 L,Under Construction
+155,"Bommasandra Jigani Link Rd, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 40 L,Under Construction
+156,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 49 L,Under Construction
+157,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 45 L,Under Construction
+158,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 45 L,Under Construction
+159,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 44 L,Under Construction
+160,"Soukya Road, Bangalore",990 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 40 L,Under Construction
+161,"Narasapura, Bangalore",600 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 35.02 L,Under Construction
+162,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 45 L,Under Construction
+163,"Hoskote, Bangalore",1050 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 35 L,Under Construction
+164,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Nov 2018, 46 L,Under Construction
+165,"Jigani, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 40 L,Under Construction
+166,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 43.83 L,Under Construction
+167,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 47 L,Under Construction
+168,"Bommasandra, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Oct 2018, 39.9 L,Under Construction
+169,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 49 L,Under Construction
+170,"Channasandra Main, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 46.13 L,Under Construction
+171,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 42 L,Under Construction
+172,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 46.13 L,Under Construction
+173,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 49 L,Under Construction
+174,"Devanagonthi, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 46 L,Under Construction
+175,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 46.13 L,Under Construction
+176,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 46 L,Under Construction
+177,"Whitefield Hope Farm Junction, Bangalore",862 ,2 Bathrooms,2  BHK Villa,Possession by Sep 2018, 46.12 L,Under Construction
+178,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 46 L,Under Construction
+179,"Bommasandra Jigani Link Rd, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Jan 2019, 40 L,Under Construction
+180,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 46.13 L,Under Construction
+181,"Soukya Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 42 L,Under Construction
+182,"Whitefield, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 46.13 L,Under Construction
+183,"Soukya Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 45 L,Under Construction
+184,"Channasandra, Bangalore",1257 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 46 L,Under Construction
+185,"Soukya Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 42 L,Under Construction
+186,"Soukya Road, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 46 L,Under Construction
+187,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Jul 2018, 46 L,Under Construction
+188,"Soukya Road, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 46 L,Under Construction
+189,"Bommasandra Jigani Link Rd, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 39.95 L,Under Construction
+190,"Hosur, Bangalore",1650 ,2 Bathrooms,2  BHK Villa,Possession by Jun 2018, 39.97 L,Under Construction
+191,"Hosur, Bangalore",1500 ,2 Bathrooms,2  BHK Villa,Possession by Jun 2018, 37.95 L,Under Construction
+192,"Hosur, Bangalore",640 ,2 Bathrooms,2  BHK Villa,Possession by Jun 2018, 16.74 L,Under Construction
+193,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Oct 2018, 45.67 L,Under Construction
+194,"Soukya Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 46.13 L,Under Construction
+195,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 46.13 L,Under Construction
+196,"Electronics City Phase 1, Bangalore",950 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 40 L,Under Construction
+197,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 49 L,Under Construction
+198,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 46 L,Under Construction
+199,"Hoskote, Bangalore",1050 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 35 L,Under Construction
+200,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 47 L,Under Construction
+201,"Whitefield Road, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 46.12 L,Under Construction
+202,"White Field, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 46.52 L,Under Construction
+203,"Channasandra Main Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 42 L,Under Construction
+204,"Electronics City Phase 1, Bangalore",950 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 39.5 L,Under Construction
+205,"Bommasandra Jigani Link Rd, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 40 L,Under Construction
+206,"White Field, Bangalore",857 ,3 Bathrooms,2  BHK Villa,Possession by Mar 2019, 44 L,Under Construction
+207,"Soukya Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 45.5 L,Under Construction
+208,"Chikballapur, Bangalore",1050 ,3 Bathrooms,2  BHK Villa,, 70 L,Ready to move
+209,"Narasapura, Bangalore",600 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 29.5 L,Under Construction
+210,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 46.13 L,Under Construction
+211,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Nov 2018, 43 L,Under Construction
+212,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Nov 2018, 43 L,Under Construction
+213,"Channasandra, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 46 L,Under Construction
+214,"Soukya Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 45 L,Under Construction
+215,"Whitefield Hope Farm Junction, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45.86 L,Under Construction
+216,"Channasandra Main Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 42 L,Under Construction
+217,"Narasapura, Bangalore",1050 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 32.55 L,Under Construction
+218,"Soukya Road, Bangalore",858 ,2 Bathrooms,2  BHK Villa,, 46 L,Under Construction
+219,"Whitefield Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 42 L,Under Construction
+220,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Oct 2018, 45.62 L,Under Construction
+221,"Soukya Road, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 42 L,Under Construction
+222,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 45.83 L,Under Construction
+223,"Channasandra, Bangalore",858 ,2 Bathrooms,2  BHK Villa,, 46 L,Under Construction
+224,"Channasandra, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 46 L,Under Construction
+225,"Soukya Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 42 L,Under Construction
+226,"Whitefield Hope Farm Junction, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 46.13 L,Under Construction
+227,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 46 L,Under Construction
+228,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Jan 2019, 45.83 L,Under Construction
+229,"Anekal City, Bangalore",950 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 36.1 L,Under Construction
+230,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 46.13 L,Under Construction
+231,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 46.13 L,Under Construction
+232,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Sep 2018, 45.83 L,Under Construction
+233,"Channasandra Main Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Nov 2018, 46 L,Under Construction
+234,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Sep 2018, 45.83 L,Under Construction
+235,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 45.83 L,Under Construction
+236,"White Field, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Sep 2018, 45.83 L,Under Construction
+237,"Whitefield, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 46.19 L,Under Construction
+238,"White Field, Bangalore",857 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 44 L,Under Construction
+239,"Devanagonthi, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 46.8 L,Under Construction
+240,"Ulsoor, Bangalore",700 ,2 Bathrooms,2  BHK Villa,, 55 L,Ready to move
+241,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45.83 L,Under Construction
+242,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45.83 L,Under Construction
+243,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 45.83 L,Ready to move
+244,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45.83 L,Under Construction
+245,"Chandapura Anekal Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 36 L,Under Construction
+246,"Whitefield Hope Farm Junction, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Nov 2018, 45 L,Under Construction
+247,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45 L,Under Construction
+248,"Samethanahalli, Bangalore",857 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 44 L,Under Construction
+249,"Samethanahalli, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 44 L,Under Construction
+250,"Budigere, Bangalore",850 ,2 Bathrooms,2  BHK Villa,, 25.5 L,Ready to move
+251,"Channasandra, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 46 L,Under Construction
+252,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 46.13 L,Under Construction
+253,"Whitefield Hope Farm Junction, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 46.13 L,Under Construction
+254,"Soukya Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Nov 2018, 45 L,Under Construction
+255,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Nov 2018, 46 L,Under Construction
+256,"Whitefield Hope Farm Junction, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45 L,Under Construction
+257,"Soukya Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Nov 2018, 46 L,Under Construction
+258,"Whitefield, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Jul 2018, 45 L,Under Construction
+259,"Soukya Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Nov 2018, 46 L,Under Construction
+260,"Whitefield, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Jun 2018, 45.8 L,Under Construction
+261,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 45.7 L,Ready to move
+262,"Whitefield Hope Farm Junction, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45 L,Under Construction
+263,"Whitefield Hope Farm Junction, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Aug 2018, 45.83 L,Under Construction
+264,"Channasandra Main Road, Bangalore",1247 ,3 Bathrooms,2  BHK Villa,Possession by Dec 2018, 56.11 L,Under Construction
+265,"Soukya Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 42 L,Under Construction
+266,"Samethanahalli, Bangalore",858 ,2 Bathrooms,2  BHK Villa,, 46 L,Under Construction
+267,"Whitefield, Bangalore",858 ,2 Bathrooms,2  BHK Villa,, 45 L,Under Construction
+268,"Soukya Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45 L,Under Construction
+269,"Anekal City, Bangalore",800 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 36.1 L,Under Construction
+270,"Bommasandra, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 40 L,Under Construction
+271,"Devanagonthi, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 47 L,Under Construction
+272,"Anekal Road, Bangalore",950 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 36.1 L,Under Construction
+273,"Whitefield Hope Farm Junction, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45.83 L,Under Construction
+274,"Devanagonthi, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 47 L,Under Construction
+275,"Hoskote, Bangalore",995 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 29 L,Under Construction
+276,"Hoskote, Bangalore",1050 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 35.02 L,Under Construction
+277,"Whitefield Hope Farm Junction, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 44.56 L,Ready to move
+278,"Chandapura, Bangalore",800 ,1 Bathrooms,2  BHK Villa,Possession by Jan 2019, 36 L,Under Construction
+279,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Nov 2018, 46.13 L,Under Construction
+280,"Hoskote, Bangalore",1200 ,3 Bathrooms,2  BHK Villa,Possession by Mar 2019, 63.25 L,Under Construction
+281,"Narasapura, Bangalore",1850 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 63.24 L,Under Construction
+282,"Hoskote, Bangalore",1258 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 38.99 L,Under Construction
+283,"Devanagonthi, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 47 L,Under Construction
+284,"Anekal City, Bangalore",950 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 36.1 L,Under Construction
+285,"Narasapura, Bangalore",600 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 32.55 L,Under Construction
+286,"Devanagonthi, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 47 L,Under Construction
+287,"Anekal City, Bangalore",950 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 36.1 L,Under Construction
+288,"Electronic City Phase 1, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 60 L,Ready to move
+289,"Hoskote, Bangalore",600 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 29.5 L,Under Construction
+290,"Chandapura, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 36 L,Under Construction
+291,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Sep 2018, 45.83 L,Under Construction
+292,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45.83 L,Under Construction
+293,"Hoskote, Bangalore",995 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 29 L,Under Construction
+294,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 46 L,Under Construction
+295,"Channasandra Main Road, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 46 L,Under Construction
+296,"Devanagonthi, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 46 L,Under Construction
+297,"Narasapura, Bangalore",1050 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 32.55 L,Under Construction
+298,"Chandapura Anekal Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 36 L,Under Construction
+299,"Whitefield Hope Farm Junction, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45.83 L,Under Construction
+300,"Hoskote, Bangalore",995 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 29 L,Under Construction
+301,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 47 L,Under Construction
+302,"Channasandra Main Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Nov 2018, 46 L,Under Construction
+303,"Chandapura, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 36 L,Under Construction
+304,"Whitefield Hope Farm Junction, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 46.12 L,Under Construction
+305,"Chandapura Anekal Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 36 L,Under Construction
+306,"Anekal Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 36 L,Under Construction
+307,"Whitefield Hope Farm Junction, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45.82 L,Under Construction
+308,"White Field, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45.48 L,Under Construction
+309,"Whitefield Hope Farm Junction, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45.83 L,Under Construction
+310,"Hosur, Bangalore",1650 ,2 Bathrooms,2  BHK Villa,, 39.97 L,Ready to move
+311,"Chandapura Anekal Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 36 L,Under Construction
+312,"Anekal Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 36 L,Under Construction
+313,"Whitefield Road, Bangalore",871 ,2 Bathrooms,2  BHK Villa,Possession by Nov 2018, 47.62 L,Under Construction
+314,"Anekal Road, Bangalore",950 ,2 Bathrooms,2  BHK Villa,Possession by Jun 2019, 36.1 L,Under Construction
+315,"Whitefield Hope Farm Junction, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45 L,Under Construction
+316,"Soukya Road, Bangalore",1200 ,,2  BHK Villa,Possession by Dec 2018, 45 L,Under Construction
+317,"Channasandra, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 46 L,Under Construction
+318,"Anekal Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 36 L,Under Construction
+319,"White Field, Bangalore",858 ,2 Bathrooms,2  BHK Villa,, 46.13 L,Ready to move
+320,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 41 L,Ready to move
+321,"Whitefield, Bangalore",867 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 44 L,Under Construction
+322,"Whitefield, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 45.83 L,Under Construction
+323,"White Field, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Nov 2018, 46.13 L,Under Construction
+324,"Hoskote, Bangalore",1200 ,3 Bathrooms,2  BHK Villa,Possession by Mar 2019, 41 L,Under Construction
+325,"Anekal City, Bangalore",950 ,,2  BHK Villa,Possession by Apr 2019, 36.1 L,Under Construction
+326,"Channasandra Main Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 45 L,Under Construction
+327,"Hosur Main, Bangalore",1500 ,2 Bathrooms,2  BHK Villa,, 34.2 L,Ready to move
+328,"Hosur, Bangalore",640 ,2 Bathrooms,2  BHK Villa,, 15.14 L,Ready to move
+329,"ITPL, Bangalore",1200 ,,2  BHK Villa,, 45 L,Ready to move
+330,"Channasandra, Bangalore",1200 ,3 Bathrooms,2  BHK Villa,Possession by Dec 2018, 56 L,Under Construction
+331,"Narasapura, Bangalore",1050 ,2 Bathrooms,2  BHK Villa,Possession by Jan 2019, 30 L,Under Construction
+332,"Whitefield, Bangalore",858 ,,2  BHK Villa,Possession by Mar 2019, 46.13 L,Under Construction
+333,"Hoskote, Bangalore",995 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 29.5 L,Under Construction
+334,"Hoskote, Bangalore",1050 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 32.5 L,Under Construction
+335,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Oct 2018, 46.13 L,Under Construction
+336,"Hoskote, Bangalore",1000 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 29.99 L,Under Construction
+337,"Hoskote, Bangalore",1000 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 29.5 L,Under Construction
+338,"Hoskote, Bangalore",995 ,2 Bathrooms,2  BHK Villa,Possession by Mar 2019, 29.5 L,Under Construction
+339,"Nandi Durga Road Extension, Bangalore",1688 ,3 Bathrooms,2  BHK Villa,, 2.7 Cr,Ready to move
+340,"Nandi Durga Road Extension, Bangalore",1688 ,3 Bathrooms,2  BHK Villa,, 2.7 Cr,Ready to move
+341,"Whitefield Hope Farm Junction, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45.61 L,Under Construction
+342,"Chandapura, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 36 L,Under Construction
+343,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45 L,Under Construction
+344,"Chandapura Anekal Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Oct 2018, 36 L,Under Construction
+345,"Channasandra, Bangalore",1200 ,3 Bathrooms,2  BHK Villa,, 48 L,Ready to move
+346,"Electronic City Phase 1, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 39.8 L,Ready to move
+347,"Bommasandra, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 40 L,Under Construction
+348,"Bommasandra, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 39.85 L,Under Construction
+349,"Anekal City, Bangalore",950 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 36.1 L,Under Construction
+350,"Soukya Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 45 L,Ready to move
+351,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45.83 L,Under Construction
+352,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 45 L,Ready to move
+353,"Whitefield, Bangalore",845 ,2 Bathrooms,2  BHK Villa,, 45.83 L,Ready to move
+354,"Whitefield, Bangalore",858 ,2 Bathrooms,2  BHK Villa,, 46.13 L,Ready to move
+355,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 42 L,Ready to move
+356,"Narasapura, Bangalore",600 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 32.55 L,Under Construction
+357,"Whitefield Hope Farm Junction, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Nov 2018, 45.83 L,Under Construction
+358,"Whitefield, Bangalore",845 ,2 Bathrooms,2  BHK Villa,, 45.83 L,Ready to move
+359,"White Field, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Oct 2018, 46.13 L,Under Construction
+360,"White Field, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Jan 2019, 45 L,Under Construction
+361,"Hennur Road, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 36.6 L,Ready to move
+362,"White Field, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Jan 2019, 45 L,Under Construction
+363,"Channasandra, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 45 L,Under Construction
+364,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Oct 2018, 46.13 L,Under Construction
+365,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Oct 2018, 47 L,Under Construction
+366,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 42 L,Ready to move
+367,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Sep 2018, 45.83 L,Under Construction
+368,"Jigani, Bangalore",845 ,2 Bathrooms,2  BHK Villa,Possession by May 2019, 40 L,Under Construction
+369,"White Field, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 46 L,Ready to move
+370,"Channasandra, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 46 L,Under Construction
+371,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 42 L,Ready to move
+372,"Hoskote, Bangalore",1255 ,2 Bathrooms,2  BHK Villa,Possession by Feb 2019, 41.15 L,Under Construction
+373,"White Field, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 41 L,Ready to move
+374,"Thirumalashettyhally, Bangalore",858 ,2 Bathrooms,2  BHK Villa,Possession by Apr 2019, 45 L,Under Construction
+375,"Soukya Road, Bangalore",1200 ,3 Bathrooms,2  BHK Villa,, 42.5 L,Ready to move
+376,"Hoskote, Bangalore",995 ,2 Bathrooms,2  BHK Villa,Possession by Nov 2018, 29.5 L,Under Construction
+377,"Whitefield, Bangalore",857 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2019, 45 L,Under Construction
+378,"White Field, Bangalore",932 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 48 L,Under Construction
+379,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Oct 2018, 45.85 L,Under Construction
+380,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45.6 L,Under Construction
+381,"Whitefield, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Dec 2018, 45.1 L,Under Construction
+382,"KR Puram, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 70.22 L,Ready to move
+383,"Hoskote, Bangalore",1453 ,2 Bathrooms,2  BHK Villa,Possession by Sep 2018, 40 L,Under Construction
+384,"Hoskote, Bangalore",1453 ,2 Bathrooms,2  BHK Villa,Possession by Sep 2018, 40 L,Under Construction
+385,"KR Puram, Bangalore",1200 ,,2  BHK Villa,, 70.08 L,Ready to move
+386,"KR Puram, Bangalore",1200 ,3 Bathrooms,2  BHK Villa,, 70 L,Ready to move
+387,"Hoskote, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Sep 2018, 40 L,Under Construction
+388,"KR Puram, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 70 L,Ready to move
+389,"KR Puram, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 70.63 L,Ready to move
+390,"KR Puram, Bangalore",1200 ,,2  BHK Villa,, 70.06 L,Ready to move
+391,"Hoskote, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 40 L,Ready to move
+392,"Hoskote, Bangalore",1453 ,2 Bathrooms,2  BHK Villa,Possession by Sep 2018, 40 L,Under Construction
+393,"KR Puram, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 68 L,Ready to move
+394,"Hosur, Bangalore",1500 ,,2  BHK Villa,, 40.06 L,Ready to move
+395,"Hoskote, Bangalore",1453 ,2 Bathrooms,2  BHK Villa,, 40 L,Under Construction
+396,"Hosur, Bangalore",1330 ,1 Bathrooms,2  BHK Villa,, 32.62 L,Ready to move
+397,"KR Puram, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 70.56 L,Ready to move
+398,"KR Puram, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 68 L,Ready to move
+399,"Hosur, Bangalore",1330 ,1 Bathrooms,2  BHK Villa,, 33.4 L,Ready to move
+400,"Hosur, Bangalore",1330 ,1 Bathrooms,2  BHK Villa,, 33.4 L,Ready to move
+401,"Hosur, Bangalore",1200 ,,2  BHK Villa,, 30 L,Ready to move
+402,"KR Puram, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 70.56 L,Ready to move
+403,"Hosur, Bangalore",1450 ,1 Bathrooms,2  BHK Villa,, 35.6 L,Ready to move
+404,"Hosur, Bangalore",1450 ,1 Bathrooms,2  BHK Villa,, 35.6 L,Ready to move
+405,"Hoskote, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,, 21 L,Ready to move
+406,"Hoskote, Bangalore",1200 ,2 Bathrooms,2  BHK Villa,Possession by Jul 2018, 40 L,Under Construction
+407,"Hoskote, Bangalore",1453 ,2 Bathrooms,2  BHK Villa,, 40 L,Ready to move
+408,"Hoskote, Bangalore",1385 ,2 Bathrooms,2  BHK Villa,Possession by Sep 2018, 40 L,Under Construction
+409,"Sarjapur, Bangalore",1207 ,2 Bathrooms,2  BHK Villa,, 53 L,Ready to move
+410,"R T Nagar, Bangalore",600 ,4 Bathrooms,2  BHK Villa,, 50 L,Ready to move
+411,"Indira Nagar, Bangalore",10350 ,2 Bathrooms,2  BHK Villa,, 6 Cr,Ready to move
+412,"Hoskote, Bangalore",1500 ,2 Bathrooms,2  BHK Villa,, 40 L,Ready to move
